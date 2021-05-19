@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Probabilistic Simulations", "Probabilistic Simulations.csproj", "{A059481E-FE8F-4A77-98EE-AC143EA56470}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A059481E-FE8F-4A77-98EE-AC143EA56470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A059481E-FE8F-4A77-98EE-AC143EA56470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A059481E-FE8F-4A77-98EE-AC143EA56470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A059481E-FE8F-4A77-98EE-AC143EA56470}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07976F9B-F813-4B1E-B99C-5756670156F9}
+	EndGlobalSection
+EndGlobal

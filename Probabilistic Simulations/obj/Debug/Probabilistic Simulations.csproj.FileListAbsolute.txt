@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\C# Intermediate Programming\Probabilistic Simulations\bin\Debug\Probabilistic Simulations.exe.config
+E:\Visual Studio Projects\C# Intermediate Programming\Probabilistic Simulations\bin\Debug\Probabilistic Simulations.exe
+E:\Visual Studio Projects\C# Intermediate Programming\Probabilistic Simulations\bin\Debug\Probabilistic Simulations.pdb
+E:\Visual Studio Projects\C# Intermediate Programming\Probabilistic Simulations\obj\Debug\Probabilistic Simulations.csprojAssemblyReference.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Probabilistic Simulations\obj\Debug\Probabilistic_Simulations.Form1.resources
+E:\Visual Studio Projects\C# Intermediate Programming\Probabilistic Simulations\obj\Debug\Probabilistic_Simulations.Properties.Resources.resources
+E:\Visual Studio Projects\C# Intermediate Programming\Probabilistic Simulations\obj\Debug\Probabilistic Simulations.csproj.GenerateResource.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Probabilistic Simulations\obj\Debug\Probabilistic Simulations.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Probabilistic Simulations\obj\Debug\Probabilistic Simulations.exe
+E:\Visual Studio Projects\C# Intermediate Programming\Probabilistic Simulations\obj\Debug\Probabilistic Simulations.pdb
